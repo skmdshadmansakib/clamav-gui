@@ -46,9 +46,3 @@ A lightweight graphical user interface (GUI) for [ClamAV](https://www.clamav.net
 
 Run the GUI!!!!
 python clamav_gui.py
-
-📁 Project Structure
-clamav-gui/
-├── clamav_gui.py       # Main GUI script
-├── README.md           # Project description
-└── results/            # Saved scan logs
